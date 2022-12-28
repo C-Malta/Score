@@ -1,0 +1,37 @@
+<root>
+    <user>
+        <name>.</name>
+        <age>0</age>
+        <sex>.</sex>
+        <height>0</height>
+    </user>
+    <health>
+        <waist_circumference>0</waist_circumference>
+        <hba1c>0</hba1c>
+        <hdl>0</hdl>
+        <ldl>0</ldl>
+        <triglycerides>0</triglycerides>
+        <fasting_glucose>0</fasting_glucose>
+        <fasting_insulin>0</fasting_insulin>
+        <vitamin_d>0</vitamin_d>
+        <total_testosterone>0</total_testosterone>
+    </health>
+    <fitness>
+        <hundred_m_sprint>0</hundred_m_sprint>
+        <marathon>0</marathon>
+        <deadlift>0</deadlift>
+        <squat>0</squat>
+        <bench_press>0</bench_press>
+        <overhead_press>0</overhead_press>
+        <chin_ups>0</chin_ups>
+        <dead_hang>0</dead_hang>
+        <vo2_max>0</vo2_max>
+    </fitness>
+    <finance>
+        <total_sats_or_btc>0</total_sats_or_btc>
+        <monthly_income>0</monthly_income>
+        <monthly_expenses_as_percentage_of_m_income>0</monthly_expenses_as_percentage_of_m_income>
+        <debt>0</debt>
+        <assets_value>0</assets_value>
+    </finance>
+</root>
